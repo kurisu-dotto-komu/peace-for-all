@@ -2,9 +2,11 @@
 
 https://www.akamai.com/newsroom/press-release/uniqlo-adds-new-akamai-tshirt-to-peace-for-all-collection
 
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/561b03e5-b504-4894-8123-39a79458f12d" />
+https://www.uniqlo.com/us/en/products/E480814-000/00
 
 https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480814/sub/goods_480814_sub18_3x4.jpg
+
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/561b03e5-b504-4894-8123-39a79458f12d" />
 
 ```bash
 #!/bin/bash
